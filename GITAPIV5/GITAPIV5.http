@@ -1,0 +1,6 @@
+@GITAPIV5_HostAddress = http://localhost:5174
+
+GET {{GITAPIV5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
