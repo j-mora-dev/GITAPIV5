@@ -2,6 +2,6 @@
 {
     public class FileName
     {
-        public int MyProperty { get; set; }
+        public int MyPropertsy { get; set; }
     }
 }
